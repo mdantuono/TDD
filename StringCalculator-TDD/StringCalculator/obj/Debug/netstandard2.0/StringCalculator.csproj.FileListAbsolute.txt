@@ -1,0 +1,9 @@
+C:\Users\mikei\source\repos\TDDPractice\StringCalculator-TDD\StringCalculator\bin\Debug\netstandard2.0\StringCalculator.deps.json
+C:\Users\mikei\source\repos\TDDPractice\StringCalculator-TDD\StringCalculator\bin\Debug\netstandard2.0\StringCalculator.dll
+C:\Users\mikei\source\repos\TDDPractice\StringCalculator-TDD\StringCalculator\bin\Debug\netstandard2.0\StringCalculator.pdb
+C:\Users\mikei\source\repos\TDDPractice\StringCalculator-TDD\StringCalculator\obj\Debug\netstandard2.0\StringCalculator.csprojAssemblyReference.cache
+C:\Users\mikei\source\repos\TDDPractice\StringCalculator-TDD\StringCalculator\obj\Debug\netstandard2.0\StringCalculator.csproj.CoreCompileInputs.cache
+C:\Users\mikei\source\repos\TDDPractice\StringCalculator-TDD\StringCalculator\obj\Debug\netstandard2.0\StringCalculator.AssemblyInfoInputs.cache
+C:\Users\mikei\source\repos\TDDPractice\StringCalculator-TDD\StringCalculator\obj\Debug\netstandard2.0\StringCalculator.AssemblyInfo.cs
+C:\Users\mikei\source\repos\TDDPractice\StringCalculator-TDD\StringCalculator\obj\Debug\netstandard2.0\StringCalculator.dll
+C:\Users\mikei\source\repos\TDDPractice\StringCalculator-TDD\StringCalculator\obj\Debug\netstandard2.0\StringCalculator.pdb
