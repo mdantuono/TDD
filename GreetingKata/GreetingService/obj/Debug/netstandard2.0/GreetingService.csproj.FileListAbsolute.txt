@@ -1,0 +1,9 @@
+C:\Users\mikei\source\repos\TDDPractice\GreetingKata\GreetingService\bin\Debug\netstandard2.0\GreetingService.deps.json
+C:\Users\mikei\source\repos\TDDPractice\GreetingKata\GreetingService\bin\Debug\netstandard2.0\GreetingService.dll
+C:\Users\mikei\source\repos\TDDPractice\GreetingKata\GreetingService\bin\Debug\netstandard2.0\GreetingService.pdb
+C:\Users\mikei\source\repos\TDDPractice\GreetingKata\GreetingService\obj\Debug\netstandard2.0\GreetingService.csprojAssemblyReference.cache
+C:\Users\mikei\source\repos\TDDPractice\GreetingKata\GreetingService\obj\Debug\netstandard2.0\GreetingService.csproj.CoreCompileInputs.cache
+C:\Users\mikei\source\repos\TDDPractice\GreetingKata\GreetingService\obj\Debug\netstandard2.0\GreetingService.AssemblyInfoInputs.cache
+C:\Users\mikei\source\repos\TDDPractice\GreetingKata\GreetingService\obj\Debug\netstandard2.0\GreetingService.AssemblyInfo.cs
+C:\Users\mikei\source\repos\TDDPractice\GreetingKata\GreetingService\obj\Debug\netstandard2.0\GreetingService.dll
+C:\Users\mikei\source\repos\TDDPractice\GreetingKata\GreetingService\obj\Debug\netstandard2.0\GreetingService.pdb
