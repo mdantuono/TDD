@@ -1,0 +1,9 @@
+C:\Users\mikei\source\repos\TDDPractice\TDD_Lottery\LotteryService\bin\Debug\netstandard2.0\LotteryService.deps.json
+C:\Users\mikei\source\repos\TDDPractice\TDD_Lottery\LotteryService\bin\Debug\netstandard2.0\LotteryService.dll
+C:\Users\mikei\source\repos\TDDPractice\TDD_Lottery\LotteryService\bin\Debug\netstandard2.0\LotteryService.pdb
+C:\Users\mikei\source\repos\TDDPractice\TDD_Lottery\LotteryService\obj\Debug\netstandard2.0\LotteryService.csprojAssemblyReference.cache
+C:\Users\mikei\source\repos\TDDPractice\TDD_Lottery\LotteryService\obj\Debug\netstandard2.0\LotteryService.csproj.CoreCompileInputs.cache
+C:\Users\mikei\source\repos\TDDPractice\TDD_Lottery\LotteryService\obj\Debug\netstandard2.0\LotteryService.AssemblyInfoInputs.cache
+C:\Users\mikei\source\repos\TDDPractice\TDD_Lottery\LotteryService\obj\Debug\netstandard2.0\LotteryService.AssemblyInfo.cs
+C:\Users\mikei\source\repos\TDDPractice\TDD_Lottery\LotteryService\obj\Debug\netstandard2.0\LotteryService.dll
+C:\Users\mikei\source\repos\TDDPractice\TDD_Lottery\LotteryService\obj\Debug\netstandard2.0\LotteryService.pdb
