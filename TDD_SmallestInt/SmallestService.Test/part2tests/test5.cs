@@ -1,5 +1,5 @@
-[Test]
-public void IfInputContainsNegativeNumberAndPostiveNumberBothAreSameClosestToZeroReturnNegativeNumber()
-{
+//[Test]
+//public void IfInputContainsNegativeNumberAndPostiveNumberBothAreSameClosestToZeroReturnNegativeNumber()
+//{
     
-} 
+//} 

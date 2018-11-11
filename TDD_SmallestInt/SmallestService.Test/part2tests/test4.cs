@@ -1,5 +1,5 @@
-[Test]
-public void IfInputContainsNegativeNumberReturnClosestToZero()
-{
+//[Test]
+//public void IfInputContainsNegativeNumberReturnClosestToZero()
+//{
     
-}
+//}

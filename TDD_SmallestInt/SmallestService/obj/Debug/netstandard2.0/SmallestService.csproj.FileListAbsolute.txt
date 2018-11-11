@@ -1,0 +1,9 @@
+C:\Users\mikei\source\repos\TDDPractice\TDD_SmallestInt\SmallestService\bin\Debug\netstandard2.0\SmallestService.deps.json
+C:\Users\mikei\source\repos\TDDPractice\TDD_SmallestInt\SmallestService\bin\Debug\netstandard2.0\SmallestService.dll
+C:\Users\mikei\source\repos\TDDPractice\TDD_SmallestInt\SmallestService\bin\Debug\netstandard2.0\SmallestService.pdb
+C:\Users\mikei\source\repos\TDDPractice\TDD_SmallestInt\SmallestService\obj\Debug\netstandard2.0\SmallestService.csprojAssemblyReference.cache
+C:\Users\mikei\source\repos\TDDPractice\TDD_SmallestInt\SmallestService\obj\Debug\netstandard2.0\SmallestService.csproj.CoreCompileInputs.cache
+C:\Users\mikei\source\repos\TDDPractice\TDD_SmallestInt\SmallestService\obj\Debug\netstandard2.0\SmallestService.AssemblyInfoInputs.cache
+C:\Users\mikei\source\repos\TDDPractice\TDD_SmallestInt\SmallestService\obj\Debug\netstandard2.0\SmallestService.AssemblyInfo.cs
+C:\Users\mikei\source\repos\TDDPractice\TDD_SmallestInt\SmallestService\obj\Debug\netstandard2.0\SmallestService.dll
+C:\Users\mikei\source\repos\TDDPractice\TDD_SmallestInt\SmallestService\obj\Debug\netstandard2.0\SmallestService.pdb
