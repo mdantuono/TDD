@@ -1,0 +1,9 @@
+C:\Users\mikei\source\repos\TDDPractice\TDD_DueDate\DueDate\bin\Debug\netstandard2.0\DueDate.deps.json
+C:\Users\mikei\source\repos\TDDPractice\TDD_DueDate\DueDate\bin\Debug\netstandard2.0\DueDate.dll
+C:\Users\mikei\source\repos\TDDPractice\TDD_DueDate\DueDate\bin\Debug\netstandard2.0\DueDate.pdb
+C:\Users\mikei\source\repos\TDDPractice\TDD_DueDate\DueDate\obj\Debug\netstandard2.0\DueDate.csprojAssemblyReference.cache
+C:\Users\mikei\source\repos\TDDPractice\TDD_DueDate\DueDate\obj\Debug\netstandard2.0\DueDate.csproj.CoreCompileInputs.cache
+C:\Users\mikei\source\repos\TDDPractice\TDD_DueDate\DueDate\obj\Debug\netstandard2.0\DueDate.AssemblyInfoInputs.cache
+C:\Users\mikei\source\repos\TDDPractice\TDD_DueDate\DueDate\obj\Debug\netstandard2.0\DueDate.AssemblyInfo.cs
+C:\Users\mikei\source\repos\TDDPractice\TDD_DueDate\DueDate\obj\Debug\netstandard2.0\DueDate.dll
+C:\Users\mikei\source\repos\TDDPractice\TDD_DueDate\DueDate\obj\Debug\netstandard2.0\DueDate.pdb
