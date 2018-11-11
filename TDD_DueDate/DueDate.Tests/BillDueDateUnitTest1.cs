@@ -48,5 +48,15 @@ namespace Tests
             var expected = new DateTime(2018, 12, 26);
             Assert.AreEqual(expected, output);
         }
+
+        [Test]
+        public void ifHoliday_ReturnWeekday()
+        {
+            var input = new DateTime(2018, 11, 9);
+            var _bill = new Bill();
+            var output = _bill.CheckDate(input);
+            var expected = new DateTime(2018, 11, 12);
+            Assert.AreEqual(expected, output);
+        }
     }
 }
