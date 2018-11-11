@@ -5,7 +5,7 @@ namespace PaymentDateCheck
     public class Bill
     {
         //bring in holiday service to check for holidays
-        //IHolidayService _holidayService;
+        IHolidayService _holidayService;
         //use dependency injection
         public DateTime CheckDate (DateTime dueDate)
         {
