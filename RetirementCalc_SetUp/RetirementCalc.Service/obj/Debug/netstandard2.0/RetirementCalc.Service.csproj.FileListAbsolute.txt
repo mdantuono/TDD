@@ -1,0 +1,9 @@
+C:\Users\mikei\source\repos\TDDPractice\RetirementCalc_SetUp\RetirementCalc.Service\bin\Debug\netstandard2.0\RetirementCalc.Service.deps.json
+C:\Users\mikei\source\repos\TDDPractice\RetirementCalc_SetUp\RetirementCalc.Service\bin\Debug\netstandard2.0\RetirementCalc.Service.dll
+C:\Users\mikei\source\repos\TDDPractice\RetirementCalc_SetUp\RetirementCalc.Service\bin\Debug\netstandard2.0\RetirementCalc.Service.pdb
+C:\Users\mikei\source\repos\TDDPractice\RetirementCalc_SetUp\RetirementCalc.Service\obj\Debug\netstandard2.0\RetirementCalc.Service.csprojAssemblyReference.cache
+C:\Users\mikei\source\repos\TDDPractice\RetirementCalc_SetUp\RetirementCalc.Service\obj\Debug\netstandard2.0\RetirementCalc.Service.csproj.CoreCompileInputs.cache
+C:\Users\mikei\source\repos\TDDPractice\RetirementCalc_SetUp\RetirementCalc.Service\obj\Debug\netstandard2.0\RetirementCalc.Service.AssemblyInfoInputs.cache
+C:\Users\mikei\source\repos\TDDPractice\RetirementCalc_SetUp\RetirementCalc.Service\obj\Debug\netstandard2.0\RetirementCalc.Service.AssemblyInfo.cs
+C:\Users\mikei\source\repos\TDDPractice\RetirementCalc_SetUp\RetirementCalc.Service\obj\Debug\netstandard2.0\RetirementCalc.Service.dll
+C:\Users\mikei\source\repos\TDDPractice\RetirementCalc_SetUp\RetirementCalc.Service\obj\Debug\netstandard2.0\RetirementCalc.Service.pdb
